@@ -1,0 +1,5 @@
+Supervised learning deals with unlabeled data, while unsupervised learning deals with labelled data -False
+Which of the following is not true about Machine Learning? -Machine learning gives computers the ability to make decision by writing down rules and methods and being explicitly programmed.
+Which of the following groups are not Machine Learning techniques? -Numpy, Scipy and Scikit-Learn
+The "Regression" technique in Machine Learning is a group of algorithms that are used for:Predicting a continuous value; for example predicting the price of a house based on its characteristics.
+When comparing Supervised with Unsupervised learning, is this sentence True or False? In contrast to Supervised learning, Unsupervised learning has more models and more evaluation methods that can be used in order to ensure the outcome of the model is accurate. -False
