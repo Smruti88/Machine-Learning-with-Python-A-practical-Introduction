@@ -1,0 +1,5 @@
+Which statement is NOT TRUE about k-means clustering?-As k-means is an iterative algorithm, it guarantees that it will always converge to the global optimum.
+Which of the following are characteristics of DBSCAN? (Select all that apply)- DBSCAN has a notion of noise, and is robust to outliers.DBSCAN can find arbitrarily shaped clusters.DBSCAN does not require one to specify the number of clusters such as k in k-means.DBSCAN can find a cluster completely surrounded by a different cluster
+Which of the following is an application of clustering?-Customer segmentation
+Which approach can be used to calculate dissimilarity of objects in clustering?-Cosine similarity,Euclidian distance,Minkowski distance.
+How is a center point (centroid) picked for each cluster in k-means? (Select all that apply)-We can randomly choose some observations out of the data set and use these observations as the initial means.We can create some random points as centroids of the clusters.
