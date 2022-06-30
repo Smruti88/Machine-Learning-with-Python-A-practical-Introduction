@@ -1,0 +1,5 @@
+Multiple Linear Regression is appropriate for: Predicting tomorrow's rainfall amount based on the wind speed and temperature.
+Which of the following is the meaning of "Out of Sample Accuracy" in the context of evaluation of models?-"Out of Sample Accuracy" is the percentage of correct predictions that the model makes on data that the model has NOT been trained on.
+When should we use Multiple Linear Regression? (Select all that apply)-i)When we would like to predict impacts of changes in independent variables on a dependent variable.ii)When we would like to identify the strength of the effect that the independent variables have on a dependent variable.
+Which of the following options is TRUE about Polynomial Regression? -Polynomial regression models can fit using the method of Least Square method.Polynomial regression can use the same mechanism as Multiple Linear Regression to find the parameters.Polynomial regression fits a curve line to your data.
+Which sentence is NOT TRUE about Non-linear Regression?-Non-linear regression must have more than one dependent variable.
